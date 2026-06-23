@@ -1,0 +1,11 @@
+{
+  "name": "dummy-backend",
+  "version": "1.0.0",
+  "description": "Backend for CI/CD matrix test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
